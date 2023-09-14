@@ -2,6 +2,8 @@
 Rohit Asopa VBA challenge
 I had a lot of problems with saving the files after completing the coding. It kept saying that I needed to save the file to a Macro-safe folder. Yet I went into Trust settings and created Trust Locations, and still it didn’t allow me to save. 
 
+Additionally, I wasn't able to upload the main Multiple_Year_Stocks file because it was too Large. I remember the instuctor told us about it last week, to push it from GitBash, but I didn't have the time to go back and watch that part of the lecture to try and do it. I have attached screenshots of all the results from the code from the main workbook, for all three years. I have also submitted the practice workbook (again, because of the Macro issue, the coding may not have been saved).
+
 Just in case the coding hasn’t come up in the file, here are the three Macros I used (I also attached screenshots):
 
 Sub Stocks():
